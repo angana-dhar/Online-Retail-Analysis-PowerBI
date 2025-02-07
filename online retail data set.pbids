@@ -1,0 +1,17 @@
+{
+  "version": "0.1",
+  "connections": [
+    {
+      "details": {
+        "protocol": "file",
+        "address": {
+          "path": "c:\\users\\dell\\downloads\\online retail data set.xlsx"
+        },
+        "authentication": null,
+        "query": null
+      },
+      "options": {},
+      "mode": null
+    }
+  ]
+}
