@@ -62,5 +62,5 @@ High-demand regions outside the UK indicate potential areas for business expansi
 
 For any questions or suggestions, feel free to reach out!
 
-📩 Email: your.email@example.com🔗 LinkedIn:(https://www.linkedin.com/in/angana-dhar/)
+📩 Email: angana.dhar1710official@gmail.com🔗 LinkedIn:(https://www.linkedin.com/in/angana-dhar/)
 
